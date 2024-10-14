@@ -3,4 +3,4 @@ Neural Network activation functions animation. Featuring Sigmoid, ReLU, Binary S
 
 To use the ActivationFunctions.py, make sure to install matplotlib and numpy.
 
-![Demo Animation](main/activation_functions.gif)
+![Demo Animation](activation_functions.gif)
