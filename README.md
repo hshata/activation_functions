@@ -1,2 +1,5 @@
 # activation_functions
-NN activation functions animation [Sigmoid, ReLU, Binary Step Function, and Tanh].
+Neural Network activation functions animation. Featuring Sigmoid, ReLU, Binary Step Function, and Tanh functions. 
+
+To use the ActivationFunctions.py, make sure to install matplotlib and numpy.
+
